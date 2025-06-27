@@ -1,0 +1,13 @@
+langchain>=0.2.0
+langchain-community
+langchain-huggingface
+transformers
+torch
+faiss-cpu
+tqdm
+openai
+rank_bm25
+baidusearch
+streamlit
+pydantic
+sentence-transformers

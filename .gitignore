@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.env
+
+.vscode/
+.idea/
+
+data/*.json
+data/*.csv
+data/faiss_index/
+
+venv/
