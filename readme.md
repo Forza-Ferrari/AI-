@@ -26,6 +26,15 @@ streamlit run app.py
 
 使用说明：
 
+使用前需要在自行在根目录建立一个 ```.env``` 文件，内容如下：
+
+```
+DEEPSEEK_API_KEY=***
+DEEPSEEK_BASE_URL=https://api.siliconflow.cn/
+```
+
+分别存放自己使用的 APIkey 和 url。
+
 输入医疗问题，例如“经常头晕，感到乏力怎么办“，”糖尿病在饮食方面的注意事项有哪些“，并等待回答即可。
 
 注意事项：
